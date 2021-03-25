@@ -1,0 +1,3 @@
+[submodule "assets/scripts/ecs"]
+	path = assets/scripts/ecs
+	url = git@github.com:daniele-rapagnani/kolanut-ecs.git
